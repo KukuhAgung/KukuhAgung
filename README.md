@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kukuh Agung Tri Pamuji</h1>
 <h3 align="center">Front End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kukuhagung&label=Profile%20views&color=0e75b6&style=flat" alt="kukuhagung" /> </p>
 
 - 🏡 I’m currently student at SMK Telkom Purwokerto
 
