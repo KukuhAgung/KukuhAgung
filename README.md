@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kukuh Agung Tri Pamuji</h1>
-<h3 align="center">FRONT END DEVELOPER</h3>
+<h3 align="center">Web Developer</h3>
 
 
 - 🏡 I’m currently student at SMK Telkom Purwokerto
 
 - 🌱 I’m currently learning **Laravel, ReactJS**
+
+- 👀 See my portfolio website **https://kukuhagung.github.io/Portfolio-KukuhAgung**
 
 - 📫 How to reach me **ff.agri2567@gmail.com**
 
