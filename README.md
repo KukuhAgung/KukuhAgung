@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kukuh Agung Tri Pamuji</h1>
-<h3 align="center">Back End Developer</h3>
+<h3 align="center">FRONT END DEVELOPER</h3>
 
 
 - 🏡 I’m currently student at SMK Telkom Purwokerto
