@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kukuh Agung Tri Pamuji</h1>
-<h3 align="center">Web Developer</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kukuhagung&show_icons=true&locale=en" alt="kukuhagung" /></p>
+<h3 align="center">Front End Web Developer</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kukuhagung&" alt="kukuhagung" /></p>
 
