@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kukuh Agung Tri Pamuji</h1>
 <h3 align="center">Web Developer</h3>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kukuhagung&show_icons=true&locale=en" alt="kukuhagung" /></p>
 
-- 🏡 I’m currently student at SMK Telkom Purwokerto
-
-- 🌱 I’m currently learning **Laravel, ReactJS**
-
-- 👀 See my portfolio website **https://kukuhagung.github.io/Portfolio-KukuhAgung**
-
-- 📫 How to reach me **ff.agri2567@gmail.com**
-
-
-![https://github-readme-stats.vercel.app/api?username=kukuhagung&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=kukuhagung&hide=contribs,prs,issues)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kukuhagung&" alt="kukuhagung" /></p>
 
 ---
 
@@ -39,6 +31,3 @@ Here's a list of support tools:
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kukuhagung&show_icons=true&locale=en" alt="kukuhagung" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kukuhagung&" alt="kukuhagung" /></p>
