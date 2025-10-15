@@ -19,9 +19,9 @@
 
 ## 📊 GitHub Stats and Language Highlights:
 
+![Github Strikes](https://github-readme-streak-stats.herokuapp.com/?user=kukuhagung&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=kukuhagung&show_icons=true&theme=radical)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kukuhagung&layout=compact&theme=radical)
-![Github Strikes](https://github-readme-streak-stats.herokuapp.com/?user=kukuhagung&theme=radical&hide_border=true)
 
 ## 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kukuhagung/)
